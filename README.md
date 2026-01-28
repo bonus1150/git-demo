@@ -8,5 +8,9 @@
 
 \- Learn GitHub
 
+\## About
+
+This project is for learning Git workflow.
+
 
 
