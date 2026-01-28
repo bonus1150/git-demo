@@ -2,7 +2,7 @@
 
 ###### ทดลองใช้  GIT และ GITHUB
 
-\## Features
+\## - Learn Git easily
 
 \- Learn Git
 
@@ -11,6 +11,4 @@
 \## About
 
 This project is for learning Git workflow.
-
-
 
