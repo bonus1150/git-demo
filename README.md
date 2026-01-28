@@ -2,7 +2,7 @@
 
 ###### ทดลองใช้  GIT และ GITHUB
 
-\## - Learn Git easily
+- Learn Git deeply and easily
 
 \- Learn Git
 
